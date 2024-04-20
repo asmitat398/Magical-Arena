@@ -23,5 +23,3 @@ Dependencies
 
 Java Development Kit (JDK) 8 or higher
 JUnit 5 (for running tests)
-
-This Game was created solely for the "Swiggy" evaluation and is not shared anywhere else.
